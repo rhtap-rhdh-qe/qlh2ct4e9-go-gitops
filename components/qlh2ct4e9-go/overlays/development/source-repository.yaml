@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: qlh2ct4e9-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/qlh2ct4e9-go
